@@ -5,40 +5,44 @@
 ## 📁 Cấu trúc thư mục
 
 \`\`\`
-.
-code/
+AI-researching/
 
-├── DSA/ #algorithms
+├── code/
 
-├── Docker/ #containers
+│ ├── DSA/ # Thuật toán và cấu trúc dữ liệu
 
-├── GreeksforGreeks/
+│ ├── Docker/ # Cấu hình và tài liệu liên quan đến Docker
 
-├── Leetcode/
+│ ├── GreeksforGreeks/ # Bài tập và tài liệu từ GeeksforGeeks
 
-├── SciPy/
+│ ├── Leetcode/ # Bài tập LeetCode
 
-├── ai/
+│ ├── SciPy/ # Tài liệu và ví dụ về SciPy
 
-├── data/
+│ ├── ai/ # Dự án hoặc mô hình AI
 
-│ └── FashionMNIST/
+│ ├── data/
 
-│ └── raw/
+│ │ ├── FashionMNIST/ # Dữ liệu FashionMNIST
 
-├── numpy/
+│ │ └── raw/ # Dữ liệu thô
 
-├── pandas/
+│ ├── numpy/ # Tài liệu và ví dụ về NumPy
 
-├── python/
+│ ├── pandas/ # Tài liệu và ví dụ về pandas
 
-├── pytorch/
+│ ├── python/ # Mã nguồn Python tổng hợp
 
-│ └── quickstart/
+│ └── pytorch/
 
-docs/
+│ └── quickstart/ # Hướng dẫn nhanh về PyTorch
 
-└── README.md
+├── docs/ # Tài liệu hướng dẫn và mô tả
+
+├── README.md # Giới thiệu tổng quan về dự án
+
+└── requirements.txt # Danh sách các thư viện cần thiết
+
 \`\`\`
 
 ## 📚 Chủ đề đang nghiên cứu
