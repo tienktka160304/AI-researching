@@ -69,3 +69,9 @@ pip install jupyter lab
 jupyter lab
 
 Đây là dự án cá nhân nên chưa mở đóng góp rộng rãi, nhưng bạn có thể fork hoặc gửi PR nếu muốn chia sẻ thêm ý tưởng!
+
+## 📚 Notion nhỏ về python :
+
+- https://www.notion.so/Python-1ecbf186cd4a80328ac9d19e296b6194?pvs=4
+
+- Đây là notion nhỏ về những thứ cơ bản về python
