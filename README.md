@@ -75,3 +75,7 @@ jupyter lab
 - https://www.notion.so/Python-1ecbf186cd4a80328ac9d19e296b6194?pvs=4
 
 - Đây là notion nhỏ về những thứ cơ bản về python
+
+## 📚 Chưong K-means Clustering trong Machine Learning:
+
+- https://www.notion.so/K-means-clustering-27fbf186cd4a806390bed2c87d1e5a76
